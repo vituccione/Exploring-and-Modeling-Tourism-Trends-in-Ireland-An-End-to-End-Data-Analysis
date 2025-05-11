@@ -1,0 +1,212 @@
+address,venue,venue_rating,venue_userRatingCount,venue_type
+"The Helix, Collins Ave, Whitehall, Dublin",The Helix,4.6,3617.0,event_venue
+"Backstage Theatre, Farneyhoogan, Farranyoogan, Longford",Backstage Theatre,4.7,303.0,event_venue
+"Gleneagle INEC Arena, Muckross Rd, Poulnamuck, Killarney, Kerry",Gleneagle INEC Arena,4.5,2148.0,event_venue
+"Vintage Tea Trips, Stephen Court, 20-22 St Stephen's Green, Dublin, Dublin",Vintage Tea Trips,4.9,1185.0,tourist_attraction
+"Skypark of Carlingford, Dundalk Rd, Moneymore, Louth",Skypark,4.6,777.0,tourist_attraction
+"The Glenmalure Lodge, Wicklow Way, Ballyboy, Glenmalure, Wicklow",The Glenmalure Lodge,4.7,1643.0,hotel
+"The Tree Of Gold, 38 Dame St, Temple Bar, Dublin",The Tree Of Gold,4.1,29.0,point_of_interest
+"Christ Church Cathedral, Church of Ireland, 1 Cathedral Square, Waterford",Christ Church Cathedral,4.5,242.0,tourist_attraction
+"Tulfarris Hotel & Golf Resort - Wicklow Hotel, Tulfarris, Blessington Lakes, Wicklow",Tulfarris Hotel & Golf Resort - Wicklow Hotel,4.5,2374.0,hotel
+"Printworks Event and Exhibition Centre, Dublin Castle, Dame St, Dublin, Dublin",Dublin Castle,4.5,88.0,event_venue
+"Beyond the Trees Avondale, Avondale, Forest Park, Avondale, Rathdrum, Wicklow",Beyond the Trees Avondale,4.6,5021.0,tourist_attraction
+"3Olympia Theatre, 72 Dame St, Temple Bar, Dublin, Dublin",3Olympia Theatre,4.5,6002.0,performing_arts_theater
+"Brigit's Garden & Café, Pollagh, Rosscahill, Galway",Brigit's Garden & Café,4.6,1069.0,gift_shop
+"Dublinia, St Michaels Hill Christ Church, Merchants Quay, Dublin, Dublin",Dublinia,4.5,6113.0,tourist_attraction
+"Cork Comedy Club - City Limits, Cork Comedy Club, City Limits, 16 Coburg St, Victorian Quarter, Cork",The Comedy Club - City Limits,4.7,330.0,point_of_interest
+"National Concert Hall, Earlsfort Terrace, Saint Kevin's, Dublin",National Concert Hall,4.7,4599.0,event_venue
+"An Táin Arts Centre, Crowe St, Townparks, Dundalk, Louth",An Táin Arts Centre,4.6,258.0,movie_theater
+"James Joyce Centre, James Joyce House, 35 N Great George's St, Rotunda, Basement, Dublin",James Joyce Centre,4.3,550.0,museum
+"National Opera House, High St, Townparks, Wexford",National Opera House,4.8,1394.0,performing_arts_theater
+"Abbey Theatre, 26/27 Abbey Street Lower, North City, Dublin, Dublin",Abbey Theatre,4.7,1793.0,performing_arts_theater
+"Triskel Arts Centre, Tobin St, Centre, Cork",Triskel Arts Centre,4.6,510.0,movie_theater
+"The Pumphouse, Alexandra Terminal, Alexandra Rd, Dublin Port, Dublin, Dublin",The Pumphouse,4.2,6.0,performing_arts_theater
+"Rathcroghan Visitor Centre, Tulsk, Roscommon",Rathcroghan Visitor Centre,4.7,239.0,community_center
+"St Patrick's Cathedral, St Patrick's Close, Dublin",St Patrick's Cathedral,4.5,22403.0,tourist_attraction
+"St. Patrick’s Park, Bull Alley St, Dublin",St. Patrick’s Park,4.6,4434.0,park
+"Darnley Lodge Hotel, Main St, Town Parks, Athboy, Meath",Darnley Lodge Hotel,4.4,738.0,hotel
+"Killarney Pumpkin Farm, Pumpkin Farm, Carran, Kerry",Killarney Pumpkin Farm,4.5,119.0,event_venue
+"Talbot Hotel Stillorgan, Stillorgan Rd, Stillorgan, Dublin",Talbot Hotel Stillorgan,4.1,2244.0,hotel
+"The Workman's Club, 10 Wellington Quay, Temple Bar, Dublin",The Workman's Club,4.1,3154.0,event_venue
+"Fitzgerald Stadium, Upper Lewis Rd, Moyeightragh, Killarney, Kerry",Fitzgerald Stadium,4.4,279.0,stadium
+"Flanagan's Bar & Restaurant, 61 O'Connell Street Upper, North City, Dublin, Dublin",Flanagan's Bar & Restaurant,4.2,3471.0,meal_delivery
+"Project Arts Centre, 39 Essex St E, Temple Bar, Dublin, Dublin",Project Arts Centre,4.6,338.0,performing_arts_theater
+"MoLI – Museum of Literature Ireland, 85 St Stephen's Green, Saint Kevin's, Dublin",MoLI – Museum of Literature Ireland,4.6,809.0,museum
+"Mount Congreve Gardens, Mount Congreve, Killoteran, Kilmeaden, Waterford",Mount Congreve Gardens,4.7,798.0,gift_shop
+"Smock Alley Theatre, 1662, 6-7 Exchange Street Lower, Temple Bar, Dublin, Dublin","Smock Alley Theatre, 1662",4.7,1258.0,performing_arts_theater
+"Photo Museum Ireland, Meeting House Square, Temple Bar, Dublin, Dublin",Photo Museum Ireland,4.5,79.0,museum
+"John Roberts Square, Waterford",Waterford City Centre,4.9,8.0,tourist_attraction
+"The Rediscovery Centre, The Boiler House, Ballymun Rd., Ballymun, Dublin",The Rediscovery Centre,4.8,72.0,tourist_attraction
+"Pavilion Theatre, Marine Rd, Dún Laoghaire, Dublin",Pavilion Theatre,4.6,397.0,performing_arts_theater
+"3Arena, N Wall Quay, North Wall, Dublin, Dublin",3Arena,4.5,15773.0,event_venue
+"This Must Be The Place, 51 Wellington Quay, Temple Bar, Dublin",This Must Be The Place,4.7,32.0,cafe
+"K2Alpacas, Callowhill Upper, Newtown Mount Kennedy, Wicklow",K2Alpacas,4.9,489.0,farm
+"Queen Maeves Square, Stephen St, Rathquarter, Sligo",Queen Maeves Square,4.6,10.0,park
+"Lafcadio Hearn Japanese Gardens, Tramore House, Pond Rd, Tramore East, Tramore, Waterford",Lafcadio Hearn Japanese Gardens,4.6,1242.0,tourist_attraction
+"Newbridge House & Farm, Hearse Rd, Newbridge Demesne, Donabate, Dublin",Newbridge House & Farm,4.7,1360.0,park
+"Starbucks College Green, 1 College Green, Temple Bar, Dublin","Tree by Starbucks, 1 College Green",4.0,1957.0,coffee_shop
+"Sean O'Casey Community Centre, SEÁN O'CASEY COMMUNITY CENTRE, 18-26 St Mary's Rd, NORTH, East Wall, Dublin City, Dublin",Sean O'Casey Community Centre,4.5,270.0,community_center
+"St. Colmcille's Church, Idrone Ave, Knocklyon, Dublin",St. Colmcille's Church,4.5,86.0,church
+"1WML, 1 Windmill Ln, Dublin, Dublin",1WML,4.8,26.0,point_of_interest
+"Dalkey Castle & Heritage Centre, Castle St, Dalkey, Dublin",Dalkey Castle & Heritage Centre,4.6,884.0,tourist_attraction
+"Diamond Coast Hotel, Bartragh, Enniscrone, Sligo",Diamond Coast Hotel,4.5,1542.0,hotel
+"Waterford Treasures: Medieval Museum (Treasures of Medieval Waterford), Cathedral Square, The Viking Triangle, Waterford",Medieval Museum (Treasures of Medieval Waterford),4.6,910.0,museum
+"Draiocht Blanchardstown, The Blanchardstown Centre, Blanchardstown, Dublin",draíocht Blanchardstown,4.6,361.0,art_gallery
+"The Organic Centre, Sraud (Conolly), Rossinver, Leitrim",The Organic Centre,4.5,194.0,visitor_center
+"Watergate Theatre, Parliament St, Gardens, Kilkenny",Watergate Theatre,4.6,416.0,performing_arts_theater
+"Whelan's, 25 Wexford St, Portobello, Dublin, Dublin",Whelan's,4.5,4626.0,night_club
+"Cavan Adventure Centre, Inishmore, Butlers Bridge, Cavan",Cavan Adventure Centre,4.8,237.0,amusement_park
+"The Church Café Bar, Jervis St, North City, Dublin, Dublin",The Church Café Bar,4.4,16017.0,tourist_attraction
+"Windrush Farm, Corsillagh, Newtown Mount Kennedy, Wicklow",Windrush Farm,5.0,66.0,farm
+"Pawn Shop, 15 Dame St, Dublin, Dublin",Pawn Shop,4.3,138.0,bar
+"The Grand Social, 35 Liffey St. Lower, North City, Dublin, Dublin",The Grand Social,4.1,2571.0,night_club
+"Lisnavagh House and Gardens, Lisnavagh House, Lisnevagh, Rathvilly, Carlow",Lisnavagh House and Gardens,4.7,110.0,event_venue
+"Fair Green, Public Park, Kenmare, Kerry","The Fairgreen, Kenmare",4.6,8.0,park
+"Fernhill Park & Gardens, Enniskerry Rd, Newtown Little, Dublin",Fernhill Park & Gardens,4.6,786.0,park
+"Vicar Street, 58-59, Thomas St, The Liberties, Dublin, Dublin",Vicar Street,4.6,5965.0,event_venue
+"Irish Museum of Modern Art, Royal Hospital Kilmainham, Military Rd, Kilmainham, Dublin",Irish Museum of Modern Art,4.3,4339.0,tourist_attraction
+"National Museum of Ireland-Decorative Arts & History, Collins Barracks, Benburb St, Stoneybatter, Dublin",National Museum of Ireland-Decorative Arts & History,4.6,5624.0,cultural_center
+"Phibsboro Library, Blacquiere Bridge, North Circular Road, Phibsborough, Phibsboro, Dublin",Phibsboro Library,4.1,33.0,library
+"National Basketball Arena, Tymon Ln, Castletymon Road, Tymon North, Dublin",National Basketball Arena,4.2,670.0,sports_complex
+"Printworks Event and Exhibition Centre, Dublin Castle, Dame St, Dublin, Dublin",Printworks Event and Exhibition Centre,4.5,88.0,event_venue
+"LexIcon Library and Cultural Centre, Queen's Rd, Dún Laoghaire, Dublin",LexIcon Library and Cultural Centre,4.5,350.0,library
+"Causey Farm, Girley, Fordstown, Meath",Causey Farm,4.7,1859.0,event_venue
+"Lucan Spa Hotel Dublin, Junction 4A N4 Westbound, Cooldrinagh, Lucan, Dublin",Lucan Spa Hotel Dublin,4.0,1719.0,hotel
+"Kilkenny Castle, The Parade, Kilkenny",Kilkenny Castle,4.6,12284.0,tourist_attraction
+"Kilkenny Castle, The Parade, Kilkenny","The Parade Tower, Kilkenny Castle",4.6,12284.0,tourist_attraction
+"St. Mary's Cathedral, James's St, Gardens, Kilkenny",St. Mary's Cathedral,4.6,812.0,tourist_attraction
+"The Parade Tower Wing, Kilkenny Castle, The Parade, Kilkenny","The Parade Tower, Kilkenny Castle",4.6,28.0,museum
+"Thomastown Concert Hall, Station Rd, Thomastown, Kilkenny",Thomastown Concert Hall,4.4,25.0,event_venue
+"Thomastown Concert Hall, Station Rd, Thomastown, Kilkenny","Thomastown Concert Hall,",4.4,25.0,event_venue
+"Croke Park, Jones' Rd, Drumcondra, Dublin",GAA Museum Croke Park,4.7,19256.0,stadium
+"National Museum of Ireland-Decorative Arts & History, Collins Barracks, Benburb St, Stoneybatter, Dublin",National Museum of Ireland- Decorative Arts & History,4.6,5624.0,cultural_center
+"Sin é Dublin, 15 Ormond Quay Upper, North City, Dublin",Sin é Dublin,4.4,1629.0,event_venue
+"The Lark Concert Hall, Church St, Balbriggan, Dublin",The Lark Concert Hall,4.6,95.0,event_venue
+"Kavanaghs Pub, 1 Aughrim St, 7, Stoneybatter, Dublin",Kavanaghs Pub Stoneybatter,4.3,322.0,event_venue
+"Johnstown Castle Estate, Museum & Gardens, Oldtown Ln, Johnstown, Wexford","Johnstown Castle Estate, Museum & Gardens",4.7,2268.0,visitor_center
+"Malahide Castle & Gardens, Back Rd, Malahide Demesne, Malahide, Dublin",Malahide Castle & Gardens,4.6,14775.0,tourist_attraction
+"Cavan Burren Park, Burren, Cavan",Cavan Burren Park,4.8,361.0,tourist_attraction
+"One Charlemont Square, Charlemont St, Saint Kevin's, Dublin",One Charlemont Square,5.0,1.0,point_of_interest
+"Irish Film Institute, 6 Eustace St, Temple Bar, Dublin, Dublin",Irish Film Institute,4.5,667.0,movie_theater
+"RDS Main Arena, Merrion Rd, Ballsbridge, Dublin",RDS Main Arena,4.4,4850.0,stadium
+"Loughcrew Estate, Loughcrew, Oldcastle, Meath",Loughcrew Gardens,4.4,757.0,tourist_attraction
+"The Casino Model Railway Museum, Dublin Rd, Malahide, Dublin",The Casino Model Railway Museum,4.4,256.0,museum
+"Dún Na Sí Amenity & Heritage Park, Lake Road, Knockdomny, Moate, Westmeath",Dún Na Sí Amenity & Heritage Park,4.7,215.0,national_park
+"Trinity College Chapel, Trinity College, College Green, Dublin, Dublin",Trinity College Chapel,4.7,49.0,church
+"King John's Castle, Nicholas St, Englishtown, Limerick",King John's Castle,4.4,5999.0,tourist_attraction
+"SO Fine Art Editions, 2nd Floor Powerscourt Townhouse Centre, 59 William St S, Dublin City, Dublin",SO Fine Art Editions,4.8,27.0,art_gallery
+"The Zoological Society of Ireland, Dublin Zoo, Zoo Rd, Phoenix park, Saint James, Dublin, Dublin",Dublin Zoo,4.5,42.0,point_of_interest
+"Theatre Royal Waterford, The Mall, Waterford",Theatre Royal Waterford,4.6,717.0,performing_arts_theater
+"The TLT (Tommy Leddy Theatre), East Coast Business Park, 12 Matthew's Ln, Rathmullan, Louth",The TLT (Tommy Leddy Theatre),4.6,926.0,performing_arts_theater
+"Cork Opera House, Emmett Pl, Centre, Cork",Cork Opera House,4.6,2911.0,tourist_attraction
+"Lime Tree Theatre, Mary Immaculate College, Courtbrack Avenue, Courtbrack, Limerick",Lime Tree Theatre,4.7,702.0,performing_arts_theater
+"Newbridge Silverware Style Icon Museum, Athgarvan Rd, Kilbelin, Newbridge, Kildare",Newbridge Silverware Museum of Style Icons,5.0,2.0,museum
+"Blueway Art Studio, Bandhall, Narraghmore, Kildare",Blueway Art Studio,5.0,24.0,store
+"Waterford Treasures: Medieval Museum (Treasures of Medieval Waterford), Cathedral Square, The Viking Triangle, Waterford",Waterford Treasures: Medieval Museum (Treasures of Medieval Waterford),4.6,910.0,museum
+"Bord Gáis Energy Theatre, Grand Canal Square, Docklands, Dublin",Bord Gáis Energy Theatre,4.7,10057.0,performing_arts_theater
+"Siamsa Tire, Town Park, Tralee, Kerry",Siamsa Tíre ,4.7,678.0,performing_arts_theater
+"Howth Castle, Howth, Dublin",Howth Castle,4.1,707.0,tourist_attraction
+"Siamsa Tire, Town Park, Tralee, Kerry",Siamsa Tíre,4.7,678.0,performing_arts_theater
+"Siamsa Tire, Town Park, Tralee, Kerry", Siamsa Tíre,4.7,678.0,performing_arts_theater
+"Mount Leinster/Nine Stones Car Park, Unnamed Rd, Co., Coolasnaghta, Carlow",Mount Leinster/Nine Stones Car Park,4.7,96.0,parking
+"Viking Tours Ireland, Castle St, Athlone, Westmeath",Viking Tours,4.6,257.0,travel_agency
+"Wexford Spiegeltent Festival Box Office, Rowe Street Upper, Townparks, Wexford",Wexford Spiegeltent Festival,4.6,61.0,store
+"Cork City Hall, City Hall, Anglesea St, Centre, Cork City, Cork",Cork City Hall,4.7,418.0,historical_landmark
+"The Everyman, 15 MacCurtain Street, Victorian Quarter, Cork City, Cork","The Everyman, Cork",4.7,1373.0,performing_arts_theater
+"Clare, Mayo",Claremorris Town Hall Theatre,4.8,57.0,natural_feature
+"Gate Theatre, Rotunda, Dublin City, Dublin",Gate Theatre,4.7,1323.0,performing_arts_theater
+"National Gallery of Ireland, Merrion Square W, Dublin, Dublin",National Gallery of Ireland,4.6,15358.0,art_gallery
+"Saint George's Arts and Heritage Centre, Brigown, Cork",Saint George's Arts and Heritage Centre,5.0,19.0,point_of_interest
+"Chester Beatty, Dublin Castle, Dublin, Dublin",Chester Beatty,4.7,3109.0,museum
+"An Diseart, Green St, Farrannakilla, Dingle, Kerry",An Díseart,4.7,60.0,cultural_center
+"The Everyman, 15 MacCurtain Street, Victorian Quarter, Cork City, Cork",The Everyman,4.7,1373.0,performing_arts_theater
+"Pearse Lyons Whiskey Distillery, 121-122, James St, Saint James, Dublin",Pearse Lyons Whiskey Distillery,4.7,1038.0,tourist_attraction
+"Michael Cusack Centre, Poulaphuca, Carran, Clare",Michael Cusack Centre,4.6,51.0,point_of_interest
+"The Gaiety Theatre, King St S, Dublin, Dublin",The Gaiety Theatre,4.6,5003.0,performing_arts_theater
+"The Castlecourt Hotel, Castlebar Rd, Carrowbeg, Westport, Mayo",The Castlecourt Hotel,4.6,2570.0,hotel
+"Dundalk Tourist Information Office, Magnet Rd, Townparks, Dundalk, Louth",Dundalk Tourist Information Office,4.8,5.0,local_government_office
+"Wells House & Gardens, Ballyedmond, Gorey, Wexford",Wells House & Gardens,4.5,2100.0,tourist_attraction
+"The Outing Festival, Dromoland, Clare",The Outing Festival,5.0,18.0,event_venue
+"Anseo, 18 Camden Street Lower, Saint Kevin's, Dublin, Dublin",Anseo,4.5,435.0,bar
+"Mullingar Arts Centre, Mount St, Commons, Mullingar, Westmeath",Mullingar Arts Centre,4.6,536.0,performing_arts_theater
+"Town Hall, Beturbet Branch Library, Town Hall, The Diamond, Corporation Lands, Belturbet, Cavan",Town Hall Belturbet,4.8,6.0,library
+"Marlay Park, Grange Rd, Rathfarnham, Dublin",Marlay Park,4.7,8592.0,park
+"Pepper Canister Church, 7 Mount St Cres, Dublin, Dublin",Pepper Canister Church,4.7,45.0,church
+"Sullivan's Taproom, 15 John Street Lower, Gardens, Kilkenny",Sullivan's Taproom,4.6,433.0,bar
+"Fota House, Arboretum & Gardens Fota Island, Foaty, Carrigtwohill, Cork",Fota House & Gardens,4.7,1191.0,museum
+"Civic Theatre, Belgard Square East, Tallaght, Dublin",The Civic Theatre,4.6,928.0,point_of_interest
+"EPIC The Irish Emigration Museum, The Chq Building, Custom House Quay, North Wall, Dublin, Dublin",EPIC The Irish Emigration Museum,4.6,9220.0,museum
+"The Bloody Stream, Howth Railway Station, Howth, Dublin",The Bloody Stream,4.3,2407.0,bar
+"Christ Church Cathedral, Christchurch Pl, Wood Quay, Dublin",Christ Church Cathedral,4.5,9976.0,tourist_attraction
+"Kerry, Kerry",Kerry,5.0,1.0,insurance_agency
+"The Spirit Store, George's Quay, Townparks, Dundalk, Louth",The Spirit Store,4.8,851.0,bar
+"St Michael’s Church of Ireland, Waterville Links, Spunkane, Waterville, Kerry",St Michael’s Church of Ireland,4.3,4.0,church
+"Regional Cultural Centre, Cove Hill, Port Rd, Letterkenny, Donegal",Regional Cultural Centre,4.7,81.0,community_center
+"Garter Lane Arts Centre, 22a O'Connell St, Trinity Without, Waterford",Garter Lane Arts Centre,4.6,256.0,performing_arts_theater
+"Tullynally Castle & Gardens, Tullynally Pakenham Hall, Road, Castlepollard, Westmeath",Tullynally Castle & Gardens,4.7,755.0,tourist_attraction
+"The Sugar Club, 8 Leeson Street Lower, Saint Kevin's, Dublin",The Sugar Club,4.5,1509.0,night_club
+"Mermaid County Wicklow Arts Centre, Main St, Bray, Wicklow",Mermaid County Wicklow Arts Centre,4.6,614.0,cafe
+"St. Fachtna's Cathedral, Church of Ireland, Carbery's Ln, Townlands, Rosscarbery, Cork","St. Fachtna's Cathedral, Church of Ireland",4.5,35.0,tourist_attraction
+"The Complex Gallery & Studios, 21-25 Arran St E, Smithfield, Dublin, Dublin",The Complex Gallery & Studios,4.5,138.0,event_venue
+"Siamsa Tire, Town Park, Tralee, Kerry", Siamsa Tíre ,4.7,678.0,performing_arts_theater
+"The Pump House, Alexandra Terminal, Alexandra Rd, Dublin Port, Dublin, Dublin",The Pump House,4.2,6.0,performing_arts_theater
+"Regional Cultural Centre, Cove Hill, Port Rd, Letterkenny, Donegal","Regional Cultural Centre, Letterkenny",4.7,81.0,movie_theater
+"Station House Theatre, Clifden, Galway",Station House Theatre,4.3,26.0,movie_theater
+"Powerscourt Estate, Powerscourt Demesne, Powerscourt Estate, Wicklow",Powerscourt Estate,4.7,9874.0,tourist_attraction
+"1 Merrion Square N, Dublin, Dublin",1 Merrion Square N,,,premise
+"119 Grafton Street, Dublin, Dublin",119 Grafton Street,,,street_address
+"Castlegaddery, Westmeath",Murtagh's Organic Farm,4.6,34.0,tourist_attraction
+Dublin,"Various Locations, Dublin City",4.7,204.0,home_goods_store
+"Capel Street, Capel St, Dublin",Capel Street,,,route
+"Drury Street, Drury St, Dublin",Drury Street,,,route
+"Donegal Town Centre, Donegal, Donegal",Donegal Town Centre,,,locality
+"The Parade, Dukesmeadows, Kilkenny","The Parade, Kilkenny City",,,route
+"National Museum of Ireland - Country Life, Turlough Park House, Gortnafolla, Castlebar, Mayo",National Museum of Ireland - Country Life,4.7,1817.0,tourist_attraction
+"Wrights Cafe Bar, The Plaza, Malahide Rd, Townparks, Swords, Dublin",Wrights Cafe Bar,4.1,1705.0,event_venue
+"Clones, Monaghan",Clones,4.0,39.0,sporting_goods_store
+"Clonfert South, Kildare",Clonfert Pet Farm,4.7,2783.0,zoo
+"Cahersiveen, Kerry",Cahersiveen,,,locality
+"Emily Square, Athy, Kildare","Emily Square, Athy",,,route
+"Letterkenny, Donegal",County Donegal,,,administrative_area_level_2
+"Newport, Mayo",Newport,,,locality
+"Cahernamart, Westport, Mayo",Westport,,,locality
+"Girley, Meath",Farmaphobia,4.4,433.0,event_venue
+"Lanesborough, Longford",Lanesborough,4.7,1442.0,hotel
+"Cathedral Square, The Viking Triangle, Waterford",Waterford Treasures: Medieval Museum,4.6,910.0,museum
+"Farranshone More, Limerick City, Limerick","Cleeves Factory, Limerick",4.5,11.0,parking
+"Denny Street, Denny St, Tralee, Kerry","Denny Street, Tralee",,,route
+"The Square, Listowel, Kerry","The Square, Listowel",4.3,976.0,hotel
+"6 Slea Head Dr, Farrannakilla, Dingle, Kerry","The Boatyard Park, Dingle",4.4,901.0,seafood_restaurant
+"Kilmacabea, Leap, Cork",Leap,3.7,3.0,finance
+Kilkenny,Kilkenny,,,locality
+"Bandon, Cork",Bandon,,,locality
+"Tralee, Kerry",Siamsa Tíre Theatre & Arts Centre,4.7,678.0,performing_arts_theater
+"Saint Fursa's Hall, St. Fursa's Hall, Church Rd, Headford, Galway",Saint Fursa's Hall,,,premise
+Galway,Galway,,,locality
+"The Apothecary, Chapel Hill, Carlingford, Louth",The Apothecary,4.5,70.0,point_of_interest
+Longford,Longford Town,,,locality
+"Ballina, Mayo",Ballina,,,route
+"Johnston Central Library, Farnham Centre, Farnham St, Keadew, Cavan",Johnston Central Library,4.6,46.0,library
+"3 St Michan's St, Smithfield, Dublin, Dublin","City Market, Mary's Lane",4.1,31.0,store
+"64 Dame St, Temple Bar, Dublin, Dublin",Peadar Kearney's Pub - Cellar,4.4,1325.0,event_venue
+"35 N Great George's St, Rotunda, Dublin",James Joyce Centre,4.3,550.0,museum
+"Athy, Kildare",Abbey Events Venue,4.4,332.0,community_center
+"Castletaylor South, Galway",Galway Pumpkin Patch,4.6,77.0,event_venue
+"Killarney, Kerry",Killarney,,,locality
+Cork,Cork,,,locality
+"Town Hall Street, Cavan",Town Hall Street,,,route
+"Dingle, Kerry",Dingle,,,locality
+"Myross Parish Church of Ireland, Listarkin, Unionhall, Cork",Myross Parish Church of Ireland,4.5,2.0,church
+"Kilfinane, Limerick",Kilfinane,,,locality
+"Galway City, Galway",Galway City,,,locality
+Donegal,Donegal,,,locality
+Dublin,Dublin,,,locality
+"Dame Street Dame St, Temple Bar, Dublin, Dublin",Dame Street Dame St,,,route
+"The Point, North Wall, Dublin, Dublin",The Point,4.0,293.0,brunch_restaurant
+"Back Rd, Malahide Demesne, Malahide, Dublin",Malahide Castle & Gardens,4.6,14775.0,tourist_attraction
+"Palmerstown House Estate, Palmerstown House, Estate, Naas, Kildare",Palmerstown House Estate,4.5,234.0,hotel
+"Bible House, 41 Dawson St, Dublin, Dublin",Glass Mask Theatre,4.9,80.0,point_of_interest
+"Lismore, Waterford",Lismore Heritage Centre,4.4,103.0,tourist_attraction
+"Trim, Meath",Trim and Athboy,,,locality
+"Youghal, Cork",Youghal,,,locality
+"Tralee, Kerry",Tralee,,,locality
