@@ -84,3 +84,18 @@ See `Appendix A` in the report for full source links and licensing.
 - Use deep learning or hybrid models (e.g., wide & deep networks)
 - Expand data with weather, reviews, and social sentiment signals
 - Deploy as interactive dashboard using Streamlit or Dash
+
+---
+
+## 👤 Author
+
+**Marco Vitucci**  
+MSc Data Analytics, CCT College Dublin  
+Email: marco.vitucci@outlook.it
+
+---
+
+## 📜 Citation
+
+If you reference this project, please cite:  
+_Vitucci, M. (2025). Exploring and Modeling Tourism Trends in Ireland. MSc Data Analytics CA1 Report, CCT College Dublin._
